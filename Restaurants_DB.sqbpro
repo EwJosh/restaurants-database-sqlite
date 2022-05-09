@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Edward/Documents/SJSUDocs/cs157a/proj/Restaurants_DB.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="2768"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,9:mainEmployees"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Allergies" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="95"/><column index="2" value="57"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Employees" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="120"/><column index="2" value="96"/><column index="3" value="126"/><column index="4" value="71"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Event" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="79"/><column index="2" value="183"/><column index="3" value="258"/><column index="4" value="91"/><column index="5" value="91"/><column index="6" value="83"/><column index="7" value="100"/><column index="8" value="106"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="EventParticipant" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="140"/><column index="2" value="79"/><column index="3" value="90"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Item_Tags" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="65"/><column index="2" value="103"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Location" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="100"/><column index="2" value="152"/><column index="3" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Menu_Items" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="3" mode="0"/></sort><column_widths><column index="1" value="83"/><column index="2" value="82"/><column index="3" value="231"/><column index="4" value="52"/><column index="5" value="106"/><column index="6" value="108"/><column index="7" value="79"/><column index="8" value="126"/><column index="9" value="87"/></column_widths><filter_values><column index="3" value="fries"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Menus" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="85"/><column index="2" value="126"/><column index="3" value="116"/><column index="4" value="99"/><column index="5" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Occasion" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="106"/><column index="2" value="151"/><column index="3" value="300"/><column index="4" value="91"/><column index="5" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Person" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="90"/><column index="2" value="90"/><column index="3" value="101"/><column index="4" value="99"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Personnel" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="96"/><column index="2" value="99"/><column index="3" value="103"/><column index="4" value="119"/><column index="5" value="97"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Restaurants" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="118"/><column index="2" value="210"/><column index="3" value="106"/><column index="4" value="94"/><column index="5" value="95"/><column index="6" value="180"/><column index="7" value="90"/><column index="8" value="53"/><column index="9" value="87"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Tags_To_Items" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="75"/><column index="2" value="65"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sqlite_sequence" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="57"/><column index="2" value="52"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Create Tables">CREATE TABLE Restaurants (
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Edward/Documents/SJSUDocs/cs157a/proj/Restaurants_DB.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser query" current="2"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="3095"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,15:mainsqlite_sequence"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Allergies" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="95"/><column index="2" value="57"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Employees" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="120"/><column index="2" value="96"/><column index="3" value="126"/><column index="4" value="71"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Event" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="79"/><column index="2" value="183"/><column index="3" value="258"/><column index="4" value="91"/><column index="5" value="91"/><column index="6" value="83"/><column index="7" value="100"/><column index="8" value="106"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="EventParticipant" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="140"/><column index="2" value="79"/><column index="3" value="90"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Item_Tags" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="65"/><column index="2" value="103"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Location" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="100"/><column index="2" value="152"/><column index="3" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Menu_Items" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="83"/><column index="2" value="82"/><column index="3" value="231"/><column index="4" value="52"/><column index="5" value="106"/><column index="6" value="108"/><column index="7" value="79"/><column index="8" value="126"/><column index="9" value="87"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Menus" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="85"/><column index="2" value="126"/><column index="3" value="116"/><column index="4" value="99"/><column index="5" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Occasion" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="106"/><column index="2" value="151"/><column index="3" value="300"/><column index="4" value="91"/><column index="5" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Person" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="90"/><column index="2" value="90"/><column index="3" value="101"/><column index="4" value="99"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Personnel" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="96"/><column index="2" value="99"/><column index="3" value="103"/><column index="4" value="119"/><column index="5" value="97"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Restaurants" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="118"/><column index="2" value="210"/><column index="3" value="106"/><column index="4" value="94"/><column index="5" value="95"/><column index="6" value="180"/><column index="7" value="90"/><column index="8" value="53"/><column index="9" value="87"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Tags_To_Items" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="75"/><column index="2" value="65"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sqlite_sequence" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="57"/><column index="2" value="52"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Create Tables">CREATE TABLE Restaurants (
 	restaurant_id	INTEGER NOT NULL,
 	name			TEXT NOT NULL,
 	description		TEXT,
@@ -7,30 +7,32 @@
 	address			TEXT NOT NULL,
 	city			TEXT NOT NULL,
 	state			TEXT NOT NULL,
-	zip_code		INTEGER NOT NULL,
+	zip_code		INTEGER NOT NULL,
+	phone_number	TEXT,
+	email_address	TEXT,
 	CHECK(length(zip_code) &lt;= 5 AND
 		zip_code &gt;= 0),
 	PRIMARY KEY(restaurant_id AUTOINCREMENT)
 );
 CREATE TABLE Employees (
 	employee_id		INTEGER NOT NULL,
-	person_id		INTEGER NOT NULL,
+	personnel_id		INTEGER NOT NULL,
 	restaurant_id	INTEGER NOT NULL,
 	role			TEXT NOT NULL,
 	PRIMARY KEY(employee_id AUTOINCREMENT),
 	FOREIGN KEY(restaurant_id) REFERENCES Restaurants(restaurant_id),
-	FOREIGN KEY(person_id) REFERENCES Personnel(person_id)
+	FOREIGN KEY(personnel_id) REFERENCES Personnel(personnel_id)
 );
 
 CREATE TABLE Personnel (
-	person_id	INTEGER NOT NULL,
+	personnel_id	INTEGER NOT NULL,
 	last_name	TEXT NOT NULL,
 	first_name	TEXT NOT NULL,
 	birthdate	TEXT NOT NULL,
 	ssn			INTEGER UNIQUE NOT NULL,
 	CHECK(length(ssn) &lt;= 9 AND
 		ssn &gt;= 0),
-	PRIMARY KEY(person_id AUTOINCREMENT)
+	PRIMARY KEY(personnel_id AUTOINCREMENT)
 );
 
 CREATE TABLE Restaurant_Tags (
@@ -121,7 +123,7 @@ INSERT INTO Restaurants (name, description, open_time, close_time, address, city
 	VALUES (&quot;Boba Bar&quot;, &quot;Tea House &amp; Eatery&quot;, time(&quot;11:00:00&quot;), time(&quot;22:00:00&quot;), &quot;310 S Third St&quot;, &quot;San Jose&quot;, &quot;CA&quot;, 95112);
 INSERT INTO Tags_To_Restaurants (restaurant_id, tag_id)
 	VALUES (1, 1), (1, 2), (1, 3 ), (1, 4), (1, 5), (1, 8);
-INSERT INTO Employees (person_id, restaurant_id, role)
+INSERT INTO Employees (personnel_id, restaurant_id, role)
 	VALUES (1, 1, &quot;Manager&quot;), (7, 1, &quot;Chef&quot;), (5, 1, &quot;Barista&quot;);
 INSERT INTO Menus (restaurant_id, menu_name) --, startTime, endTime)
 	VALUES (1, &quot;Milk Teas&quot;), (1, &quot;Fruit Teas&quot;), (1, &quot;Bites&quot;), (1, &quot;Bowls&quot;);
@@ -168,7 +170,6 @@ INSERT INTO Menu_Items (menu_id, item_name, price, is_in_stock)
 	(7, &quot;Cheese Sticks&quot;, 610, 1);
 INSERT INTO Tags_To_Items (item_id, tag_id)
 	VALUES ((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Lobster Balls&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Shellfish&quot;)),
-	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Garlic Fries&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
 	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Sweet Potato Fries&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
 	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Cheese Sticks&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;));
 
@@ -226,7 +227,6 @@ INSERT INTO Tags_To_Items (item_id, tag_id)
 	VALUES ((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Buffalo Tender Salad&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Milk&quot;)),
 	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Chicken Caesar Salad&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Milk&quot;)),
 	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Chopped Salad&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
-	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Chopped Salad&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegan&quot;)),
 	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Cali&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Milk&quot;)),
 	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Bacon Cheese Sliders&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Milk&quot;)),
 	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Philly Cheesesteak&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Milk&quot;)),
@@ -235,8 +235,8 @@ INSERT INTO Tags_To_Items (item_id, tag_id)
 	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;The Rooster&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Milk&quot;)),
 	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Onion Rings&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;));
 INSERT INTO Tags_To_Items (item_id, tag_id)
-	VALUES	((SELECT item_id FROM Menu_Items, Menus WHERE Menu_Items.item_name = &quot;Curly Fries&quot; AND Menus.restaurant_id = 4), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
-	((SELECT item_id FROM Menu_Items, Menus WHERE Menu_Items.item_name = &quot;Garlic Fries&quot; AND Menus.restaurant_id = 4), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;));
+	VALUES	((SELECT item_id FROM Menu_Items, Menus WHERE Menu_Items.item_name = &quot;Curly Fries&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
+	((SELECT item_id FROM Menu_Items, Menus WHERE Menu_Items.item_name = &quot;Garlic Fries&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;));
 	INSERT INTO Tags_To_Items (item_id, tag_id)
 	VALUES((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Disco Tots&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
 	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Tater Tots&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;));
@@ -259,59 +259,99 @@ INSERT INTO Menu_Items (menu_id, item_name, price, is_in_stock)
 	(16, &quot;Rainbow&quot;, 1099, 1),
 	(16, &quot;Pee Wee&quot;, 1099, 1);
 INSERT INTO Tags_To_Items (item_id, tag_id)
-	VALUES ((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Meatless Mike&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
-	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;James &amp; The Giant Peach&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
-	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Handsome Owl&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
-	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Rainbow&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
-	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Pee Wee&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;));
+	VALUES ((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Meatless Mike&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Meatless Mike&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegan&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;James &amp; The Giant Peach&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;James &amp; The Giant Peach&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegan&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Handsome Owl&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Handsome Owl&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegan&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Rainbow&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Rainbow&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegan&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Pee Wee&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Pee Wee&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegan&quot;));
 
 INSERT INTO Restaurants (name, description, open_time, close_time, address, city, state, zip_code)
-	VALUES (&quot;Foo(d) &amp; Bar&quot;, &quot;not real restaurant&quot;, time(&quot;08:00:00&quot;), time(&quot;18:00:00&quot;), &quot;42 Wallaby Wy&quot;, &quot;San Jose&quot;, &quot;CA&quot;, 95113);
+	VALUES (&quot;Foo(d) &amp; Bar&quot;, &quot;not real restaurant&quot;, time(&quot;08:00:00&quot;), time(&quot;21:00:00&quot;), &quot;42 Wallaby Wy&quot;, &quot;San Jose&quot;, &quot;CA&quot;, 95113);
 INSERT INTO Tags_To_Restaurants (restaurant_id, tag_id)
 	VALUES (6, 16), (6, 2), (6, 1), (6, 9);
-INSERT INTO Employees (person_id, restaurant_id, role)
-	VALUES (1, 1, &quot;Manager&quot;), (7, 1, &quot;Chef&quot;), (5, 1, &quot;Barista&quot;);
+INSERT INTO Employees (personnel_id, restaurant_id, role)
+	VALUES (2, 6, &quot;Manager&quot;), (3, 6, &quot;Chef&quot;), (10, 6, &quot;Barista&quot;);
 INSERT INTO Menus (restaurant_id, menu_name, start_time, end_time)
-	VALUES (6, &quot;Breakfast&quot;, time(&quot;8:00:00&quot;), time(&quot;11:30:00&quot;)),
-	(6, &quot;Lunch&quot;, time(&quot;11:00:00&quot;), time(&quot;5:00:00&quot;)),
-	(6, &quot;Dinner&quot;, time(&quot;11:00:00&quot;), time(&quot;5:00:00&quot;)),;
+	VALUES (6, &quot;Breakfast&quot;, time(&quot;08:00:00&quot;), time(&quot;11:30:00&quot;)),
+	(6, &quot;Lunch&quot;, time(&quot;11:00:00&quot;), time(&quot;17:00:00&quot;)),
+	(6, &quot;Dinner&quot;, time(&quot;16:30:00&quot;), time(&quot;21:00:00&quot;)),
+	(6, &quot;Drinks&quot;, NULL, NULL);
 INSERT INTO Menu_Items (menu_id, item_name, price, is_in_stock)
 	VALUES (17, &quot;Sunny Side Up&quot;, 800, 1),
-	(17, &quot;Pancakes &amp; Honey&quot;, 750, 0),
+	(17, &quot;Pancakes &amp; Honey&quot;, 750, 0),
+	(17, &quot;Vegan Pancakes &amp; Syrup&quot;, 750, 0),
 	(17, &quot;Fruit Salad&quot;, 900, 1),
 	(17, &quot;Sausage Platter&quot;, 1250, 1),
 	(17, &quot;Bacon Platter&quot;, 1250, 1),
-	(17, &quot;Hazelnut Pancakes&quot;, 900, 1);
+	(17, &quot;Hazelnut Pancakes&quot;, 900, 1),
+	(18, &quot;Bacon Burger&quot;, 1250, 1),
+	(19, &quot;Vegan Lasagna&quot;, 1800, 1),
+	(20, &quot;Coca-Cola&quot;, 175, 1),
+	(20, &quot;Sprite&quot;, 175, 1),
+	(20, &quot;Pineapple Juice&quot;, 175, 1),
+	(20, &quot;Orange Juice&quot;, 150, 1),
+	(20, &quot;Apple Juice&quot;, 150, 1),
+	(20, &quot;Jasmine Tea&quot;, 175, 1),
+	(20, &quot;Lemonade&quot;, 400, 1),
+	(20, &quot;Strawberry Lemonade&quot;, 150, 1),
+	(20, &quot;Water&quot;, 125, 1),
+	(20, &quot;Mascota 2018 Unanime Pinot Noir&quot;, 1000, 1),
+	(20, &quot;Blue Moon Wheat Beer&quot;, 800, 1),
+	(20, &quot;Strawberry Moscow Mule&quot;, 1300, 1);
+	
 INSERT INTO Tags_To_Items (item_id, tag_id)
 	VALUES ((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Sunny Side Up&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Eggs&quot;)),
-	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Sunny Side Up&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Sunny Side Up&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Vegan Pancakes &amp; Syrup&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Vegan Pancakes &amp; Syrup&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegan&quot;)),
 	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Fruit Salad&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegetarian&quot;)),
 	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Fruit Salad&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegan&quot;)),
-	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Hazelnut Pancakes&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Tree Nuts&quot;));
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Hazelnut Pancakes&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Tree Nuts&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Vegan Lasagna&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Vegan&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Mascota 2018 Unanime Pinot Noir&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Alcohol&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Blue Moon Wheat Beer&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Alcohol&quot;)),
+	((SELECT item_id FROM Menu_Items WHERE item_name = &quot;Strawberry Moscow Mule&quot;), (SELECT tag_id FROM Item_Tags WHERE name = &quot;Alcohol&quot;));
 	
 
 INSERT INTO Restaurants (name, description, open_time, close_time, address, city, state, zip_code)
-	VALUES (&quot;Foo Bar &amp; Breakfast&quot;, &quot;imaginary&quot;, time(&quot;08:00:00&quot;), time(&quot;18:00:00&quot;), &quot;42 Wallaby Wy&quot;, &quot;San Jose&quot;, &quot;CA&quot;, 95113);</sql><sql name="Constraints Check">INSERT INTO Personnel (last_name, first_name, birthdate, SSN)
-	VALUES(&quot;Danforth&quot;, &quot;Thomas&quot;, date(&quot;1976-03-30&quot;), 123);		-- Short SSN
-INSERT INTO Personnel (last_name, first_name, birthdate, SSN)
-	VALUES(&quot;Parris&quot;, &quot;Betty&quot;, date(&quot;2018-08-01&quot;), 123456789);	-- Too Young
-
-INSERT INTO Restaurants (name, description, openTime, closeTime, address, city, state, zip_code)
-	VALUES (&quot;Boba Bar&quot;, &quot;Tea House &amp; Eatery&quot;, time(&quot;11:00:00&quot;), time(&quot;22:00:00&quot;), &quot;310 S Third St&quot;, &quot;San Jose&quot;, &quot;CA&quot;, 95112);
+	VALUES (&quot;Foo Bar &amp; Breakfast&quot;, &quot;imaginary&quot;, time(&quot;08:00:00&quot;), time(&quot;18:00:00&quot;), &quot;42 Wallaby Wy&quot;, &quot;San Jose&quot;, &quot;CA&quot;, 95113);</sql><sql name="Insert Tests">-- Insert Personnel with an ssn value shorter than 9-digits
+-- Expected Result: Pass (SSN is considered &quot;000000123&quot;)
+INSERT INTO Personnel (last_name, first_name, birthdate, ssn)
+	VALUES(&quot;Danforth&quot;, &quot;Thomas&quot;, date(&quot;1976-03-30&quot;), 123);
+
+-- Insert Personnel with an ssn value longer than 9-digits without a leading zero
+-- Expected Result: Fail
+INSERT INTO Personnel (last_name, first_name, birthdate, ssn)
+	VALUES(&quot;Parris&quot;, &quot;Betty&quot;, date(&quot;2003-08-01&quot;), 1234567890);
+
+-- Insert Personnel with an ssn value longer than 9-digits, with a leading zero
+-- Expected Result: Pass (SSN is considered &quot;987654321&quot;)
+INSERT INTO Personnel (last_name, first_name, birthdate, ssn)
+	VALUES(&quot;Young&quot;, &quot;Alice&quot;, date(&quot;2002-05-12&quot;), 000987654321);
+
+-- Insert Restaurants with a zip_code value longer than 5-digits without a leading zero
+-- Expected Result: Fail 
+INSERT INTO Restaurants (name, description, open_time, close_time, address, city, state, zip_code)
+	VALUES (&quot;Bar &amp; Foo(d)&quot;, &quot;An imaginary restaurant&quot;, time(&quot;11:00:00&quot;), time(&quot;22:00:00&quot;), &quot;402 Wallaby Wy Sydney&quot;, &quot;San Jose&quot;, &quot;CA&quot;, 123456);
 INSERT INTO Cuisines_To_Restaurants (restaurant_id, cuisine_id)
 	VALUES (1, 1), (1, 2), (1, 3 ), (1, 4), (1, 5);
 INSERT INTO Employees (restaurant_id, person_id, role)
 	VALUES (1, 1, &quot;Manager&quot;), (1, 4, &quot;Chef&quot;), (1, 5, &quot;Barista&quot;);
 INSERT INTO Menus (restaurant_id, name, startTime, endTime)
 	VALUES (1, &quot;Milk Teas&quot;)</sql><sql name="Query Examples">-- Query Employees by name from Boba Bar
-SELECT Personnel.person_id, Personnel.first_name, Personnel.last_name
+SELECT Personnel.personnel_id, Personnel.first_name, Personnel.last_name
 	FROM Personnel, Employees, Restaurants
-	WHERE Restaurants.name = &quot;Boba Bar&quot;
+	WHERE Restaurants.name = &quot;Foo(d) &amp; Bar&quot;
 	AND Employees.restaurant_id = Restaurants.restaurant_id
-	AND Employees.person_id = Personnel.person_id
-	GROUP BY Personnel.person_id;
+	AND Employees.personnel_id = Personnel.personnel_id
+	GROUP BY Personnel.personnel_id;
 
--- Query Restaurants with Sandwiches
+-- Query Sandwich Restaurants
 SELECT Restaurants.restaurant_id, Restaurants.name
 	FROM Restaurants, Restaurant_Tags, Tags_To_Restaurants
 	WHERE Restaurant_Tags.name = &quot;Sandwiches&quot;
@@ -319,18 +359,65 @@ SELECT Restaurants.restaurant_id, Restaurants.name
 	AND Tags_To_Restaurants.restaurant_id = Restaurants.restaurant_id
 	GROUP BY Restaurants.restaurant_id;
 
--- Query Locations of Restaurants with Boba
-SELECT Restaurants.restaurant_id, Restaurants.name, Restaurants.address
+-- Query Locations of Restaurants with Tea
+SELECT Restaurants.restaurant_id, Restaurants.name, Restaurants.address, Restaurants.city, Restaurants.state, Restaurants.zip_code
 	FROM Restaurants, Restaurant_Tags, Tags_To_Restaurants
 	WHERE Restaurant_Tags.name = &quot;Tea&quot;
 	AND Tags_To_Restaurants.tag_id = Restaurant_Tags.tag_id
 	AND Tags_To_Restaurants.restaurant_id = Restaurants.restaurant_id
 	GROUP BY Restaurants.restaurant_id;
+
+-- Query Restaurants with Vegan options
+SELECT Restaurants.restaurant_id, Restaurants.name
+	FROM Restaurants, Menus, Menu_Items, Tags_To_Items, Item_Tags
+	WHERE Item_Tags.name = &quot;Vegan&quot;
+	AND Tags_To_Items.tag_id = Item_Tags.tag_id
+	AND Tags_To_Items.item_id = Menu_Items.item_id
+	AND Menu_Items.menu_id = Menus.menu_id
+	AND Menus.restaurant_id = Restaurants.restaurant_id
+	GROUP BY Restaurants.restaurant_id;
+
+-- Query all options from Foo(d) &amp; Bar
+SELECT Menus.menu_id, Menus.menu_name, Menu_Items.item_id, Menu_Items.item_name, Menu_Items.price
+	FROM Menu_Items, Item_Tags, Tags_To_Items, Restaurants, Menus
+	WHERE Menu_Items.menu_id = Menus.menu_id
+	AND Menus.restaurant_id = Restaurants.restaurant_id
+	AND Restaurants.name = &quot;Foo(d) &amp; Bar&quot;
+	GROUP BY Menu_Items.item_id
+	ORDER BY Menus.menu_id;
 
--- Query Vegetarian options from Foo Bar &amp; Breakfast
+-- Query Vegan options from Foo(d) &amp; Bar available at 10:13
 SELECT Menu_Items.item_id, Menu_Items.item_name, Menu_Items.price
-	FROM Menu_Items, Item_Tags, Tags_To_Items
-	WHERE Item_Tags.name = &quot;Vegetarian&quot;
+	FROM Menu_Items, Item_Tags, Tags_To_Items, Restaurants, Menus
+	WHERE Item_Tags.name = &quot;Vegan&quot;
 	AND Tags_To_Items.tag_id = Item_Tags.tag_id
-	AND Tags_To_Items.item_id = Menu_Items.item_id
-	AND Restaurants.name = &quot;Foo(d) &amp; Bar&quot;;</sql><current_tab id="0"/></tab_sql></sqlb_project>
+	AND Tags_To_Items.item_id = Menu_Items.item_id
+	AND Menu_Items.menu_id = Menus.menu_id
+	AND Menus.restaurant_id = Restaurants.restaurant_id
+	AND Restaurants.name = &quot;Foo(d) &amp; Bar&quot;
+	AND &quot;10:13:00&quot; BETWEEN Menus.start_time AND Menus.end_time
+	GROUP BY Menu_Items.item_id;
+
+-- Query options from Foo(d) &amp; Bar's Drinks menu
+SELECT Menu_Items.item_id, Menu_Items.item_name, Menu_Items.price
+	FROM Menu_Items, Restaurants, Menus
+	WHERE Menus.menu_name = &quot;Drinks&quot;
+	AND Menu_Items.menu_id = Menus.menu_id
+	AND Menus.restaurant_id = Restaurants.restaurant_id
+	AND Restaurants.name = &quot;Foo(d) &amp; Bar&quot;
+	GROUP BY Menu_Items.item_id;
+
+-- Query non-alcoholic options from Foo(d) &amp; Bar's Drinks menu
+SELECT Menu_Items.item_id, Menu_Items.item_name, Menu_Items.price
+	FROM Menu_Items, Tags_To_Items, Item_Tags, Restaurants, Menus
+	WHERE Menus.menu_name = &quot;Drinks&quot;
+	AND Menu_Items.menu_id = Menus.menu_id
+	AND Menus.restaurant_id = Restaurants.restaurant_id
+	AND Restaurants.name = &quot;Foo(d) &amp; Bar&quot;
+	GROUP BY Menu_Items.item_id
+	EXCEPT 
+	SELECT Menu_Items.item_id, Menu_Items.item_name, Menu_Items.price
+		FROM Menu_Items, Tags_To_Items, Item_Tags, Restaurants, Menus
+		WHERE Item_Tags.name = &quot;Alcohol&quot;
+		AND Tags_To_Items.tag_id = Item_Tags.tag_id
+		AND Tags_To_Items.item_id = Menu_Items.item_id;</sql><current_tab id="2"/></tab_sql></sqlb_project>
